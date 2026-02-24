@@ -11,9 +11,3 @@
 
 💡 Building real-world projects
 
-## Contact Me
-
-📍 Puntland BariSomalia
-
-📧 hamdiizasandheere@gmail.com
-
