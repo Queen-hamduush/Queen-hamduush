@@ -12,8 +12,8 @@
 💡 Building real-world projects
 
 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Queen-hamduush&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Queen-hamduus&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?Queen-hamduus=Queen-hamduush&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Queen-hamduus=Queen-hamduus&layout=compact&theme=radical)
 
 
 ## Contact Me
