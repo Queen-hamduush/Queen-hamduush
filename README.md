@@ -12,9 +12,7 @@
 💡 Building real-world projects
 
 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?Queen-hamduus=Queen-hamduush&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Queen-hamduus=Queen-hamduus&layout=compact&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?Queen-hamduush=USERNAME&show_icons=true&theme=radical)
 
 ## Contact Me
 
