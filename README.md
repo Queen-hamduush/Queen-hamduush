@@ -7,13 +7,13 @@
 
 ⚛️ Exploring React & advanced JavaScript
 
-🎯 Goal: Become a professional Frontend Developer
+🎯 Goal become a professional Fullstuck Developer
 
 💡 Building real-world projects
 
 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Queen-hamduush&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Queen-hamduus&layout=compact&theme=radical)
 
 
 ## Contact Me
