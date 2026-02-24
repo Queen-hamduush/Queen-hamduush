@@ -11,8 +11,6 @@
 
 💡 Building real-world projects
 
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Queen-hamduush&show_icons=true&theme=dracula
 ## Contact Me
 
 📍 Puntland BariSomalia
