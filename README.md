@@ -12,8 +12,7 @@
 💡 Building real-world projects
 
 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?Queen-hamduush=USERNAME&show_icons=true&theme=radical)
-
+https://github-readme-stats.vercel.app/api?username=Hamdiya Ahmed&show_icons=true&theme=dracula
 ## Contact Me
 
 📍 Puntland BariSomalia
